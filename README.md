@@ -5,4 +5,3 @@ Analyzed the data of cars made by different companies their model types, engine 
 <h3>Technology used</h3>
 ◉python<br>
 
-◉break line sathi br hyat lihaych <><br>
